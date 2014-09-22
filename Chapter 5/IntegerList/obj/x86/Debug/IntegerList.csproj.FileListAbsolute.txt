@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-5\Chapter 5\IntegerList\bin\Debug\IntegerList.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-5\Chapter 5\IntegerList\bin\Debug\IntegerList.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-5\Chapter 5\IntegerList\obj\x86\Debug\IntegerList.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-5\Chapter 5\IntegerList\obj\x86\Debug\IntegerList.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 5", "Chapter 5\Chapter 5.csproj", "{CFE2AF0C-79D2-4DD7-B1F2-1F3AC2246E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerList", "IntegerList\IntegerList.csproj", "{9450296E-DF83-4688-B2F6-6BE9843C5322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckZip", "CheckZip\CheckZip.csproj", "{30BDCCE6-ACF7-493E-9446-EE006C249B22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE2AF0C-79D2-4DD7-B1F2-1F3AC2246E93}.Debug|x86.ActiveCfg = Debug|x86
+		{CFE2AF0C-79D2-4DD7-B1F2-1F3AC2246E93}.Debug|x86.Build.0 = Debug|x86
+		{CFE2AF0C-79D2-4DD7-B1F2-1F3AC2246E93}.Release|x86.ActiveCfg = Release|x86
+		{CFE2AF0C-79D2-4DD7-B1F2-1F3AC2246E93}.Release|x86.Build.0 = Release|x86
+		{9450296E-DF83-4688-B2F6-6BE9843C5322}.Debug|x86.ActiveCfg = Debug|x86
+		{9450296E-DF83-4688-B2F6-6BE9843C5322}.Debug|x86.Build.0 = Debug|x86
+		{9450296E-DF83-4688-B2F6-6BE9843C5322}.Release|x86.ActiveCfg = Release|x86
+		{9450296E-DF83-4688-B2F6-6BE9843C5322}.Release|x86.Build.0 = Release|x86
+		{30BDCCE6-ACF7-493E-9446-EE006C249B22}.Debug|x86.ActiveCfg = Debug|x86
+		{30BDCCE6-ACF7-493E-9446-EE006C249B22}.Debug|x86.Build.0 = Debug|x86
+		{30BDCCE6-ACF7-493E-9446-EE006C249B22}.Release|x86.ActiveCfg = Release|x86
+		{30BDCCE6-ACF7-493E-9446-EE006C249B22}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
